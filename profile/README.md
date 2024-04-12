@@ -1,7 +1,8 @@
 ## Notion Nice
 
-Format and distribute Notion content easily. Supports WeChat and more. Enhance your productivity.
+Notion Nice 是一个专为内容创作者和 Notion 用户而设计的浏览器插件，它致力于通过提供一系列便利工具来提升您的 Notion 使用体验。借助我们的扩展，您能轻松整理您的 Notion 页面，并且可以直接将其以HTML的形式导出到您的微信公众号，从而使分享内容变得更为流畅和高效。不仅如此，Notion Nice 还会自动为您的 Notion 页面生成目录，以便您和您的读者可以轻松地浏览复杂的文档。
 
-Notion Nice is a browser extension designed to enhance your experience with Notion by providing a suite of convenient features aimed at content creators and avid users of Notion. With our extension, you can effortlessly format your Notion pages and export them as HTML directly to your WeChat public account, making the process of sharing your content smoother and more efficient. Additionally, Notion Nice automatically generates a table of contents for your Notion pages, helping you and your readers navigate complex documents with ease.
+Q & A
+为什么在安装插件时会提醒“增强型安全浏览功能不信任此扩展程序”？
 
-Future updates may include additional functionalities such as a "Back to Top" button for quick navigation and the ability to save web pages directly into your Notion databases for seamless content management. Whether you're a content creator looking to streamline your workflow or a Notion enthusiast seeking to enhance your organizational tools, Notion Nice is here to elevate your Notion experience.
+这是 Google 新的开发者政策导致的，目前我还没完全弄明白是什么原因触发到安全警告。Notion Nice 向所有人承诺并保证不会胡乱收集你的信息，可放心使用。更多隐私政策可查阅：https://notion-nice.com/privacy
